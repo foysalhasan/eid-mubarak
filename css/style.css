@@ -201,15 +201,15 @@ p {
 
 @media (max-width:460px) {
    h1{
-     font-size: 24px;
+     font-size: 24px !important;
    }
 
    .star{
        bottom: -37px !important;
-       left: 90px !important;
+       left: 80px !important;
    }
 
    .line{
-       width: 80px !important;
+       width: 70px !important;
    }
 }
